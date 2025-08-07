@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Primeiro teste HTML</title>
+</head>
+
+<body>
+<h1> Bem vindos ao meu primeiro teste de HTML </h1>
+
+<p><b> Esta é uma página simples de testes de tags simples. </b>.</p>
+<p><b> Você prefere textos em negrito? </b>.</p>
+<p><i> Ou textos em itálico? </i>.</p>
+<p><strong> Podemos modificar esse conteúdo! </strong>.</p>
+
+</body>
+
+</html>
